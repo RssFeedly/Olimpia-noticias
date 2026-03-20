@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-    <title>Mi RSS automático</title>
+    <title>Club Olimpia - Noticias</title>
     <link>https://www.clubolimpia.com.py/noticias</link>
-    <description>Titulares automáticos</description>
+    <description>Últimas noticias oficiales del Club Olimpia</description>
+    <language>es-py</language>
     
 </channel>
 </rss>
