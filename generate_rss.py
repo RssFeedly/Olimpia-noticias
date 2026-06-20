@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 from datetime import datetime
 
-URL = "https://www.clubolimpia.com.py/noticias"
+URL = "https://www.clubolimpia.com.py/news"
 BASE_URL = "https://www.clubolimpia.com.py"
 
 # User-Agent actualizado para evitar bloqueos
